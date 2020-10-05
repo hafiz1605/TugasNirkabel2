@@ -1,5 +1,7 @@
 # Keamanan Jaringan Nirkabel
 
+
+
 ## 1. WEP (Wired Equivalent Privacy)
 ![Image](download.png)
 
