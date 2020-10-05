@@ -2,9 +2,9 @@
 ![Image](security.jpg)
 
 ## Pengertian Keamanan jaringan Nirkabel
-jaringan nirkabel yaitu suatu media yang transmisi datanya tidak menggunakan kabel, karena jaringan ini menggunakan gelombang elektromagnetik sebagai media transmisi datanya.
+Keamanan jaringan nirkabel yaitu suatu sistem yang digunakan untuk memberikan perlindungan pada suatu jaringan agar terhindar dari serangan atau berbagai ancaman dari pihak luar yang tidak bertanggung jawab.
 
-## Tujuan Sistem Keamanan Jaringan
+## Tujuan Keamanan Jaringan Nirkabel
 1. Dapat melindungi keamanan pada sistem informasi mengenai akses, pengungkapan, penggunaan, modifikasi, gangguan maupun penghancuran.
 2. Untuk mengawasi informasi yang terdapat pada komputer sehingga penggunaannya bisa melakukan pengontrolan supaya bisa memonitoring dari seluruh aktivitas yang terdapat pada komputer.
 3. Untuk melakukan antisipasi pada saat jaringan telah berhasil ditembus oleh pihak luar.
