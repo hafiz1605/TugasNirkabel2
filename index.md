@@ -24,7 +24,7 @@ Pada lapisan ini terdapat kelemahan yakni jika sudah terlalu banyak node (client
 ## Manfaat Keamanan Jaringan Nirkabel
 
 1. Bisa mendapatkan reliabilitas lebih tinggi
-Anda bisa dengan mudah menemukan reliabilitas tinggi cukup dengan melalui jaringan komputer dengan sumber alternatif persediaan. Sebagai contoh, untuk file secara keseluruhan bisa dicopy atau disimpan pada komputer kedua, komputer ketiga atau bahkan lebih. Namun dengan catatan, komputer harus terkoneksi pada jaringan. Dalam hal ini apabila 1 mesin telah mengalami kerusakan, maka untuk salinan pada mesin yang lain masih tetap dapat digunakan. Untuk komputer yang berukuran kecil memiliki rasio kinerja atau harga yang lebih baik jika dibandingkan pada komputer yang lebih besar.
+Kita bisa dengan mudah menemukan reliabilitas tinggi cukup dengan melalui jaringan komputer dengan sumber alternatif persediaan. Sebagai contoh, untuk file secara keseluruhan bisa dicopy atau disimpan pada komputer kedua, komputer ketiga atau bahkan lebih. Namun dengan catatan, komputer harus terkoneksi pada jaringan. Dalam hal ini apabila 1 mesin telah mengalami kerusakan, maka untuk salinan pada mesin yang lain masih tetap dapat digunakan. Untuk komputer yang berukuran kecil memiliki rasio kinerja atau harga yang lebih baik jika dibandingkan pada komputer yang lebih besar.
 
 2. Bisa menggunakan sumber daya secara bersamaan
 Manfaat pertama yang bisa didapatkan dari menggunakan sistem keamanan pada jaringan yaitu bisa menggunakan sumber daya secara bersamaan. Hal ini seringkali dianggap bahwa jaringan pada komputer mampu mengatasi permasalahan pada jarak, karena seseorang yang berada pada 100 km dari suatu data maka tidak akan mendapatkan kesulitan untuk menggunakan data tersebut.
